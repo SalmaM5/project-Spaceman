@@ -1,0 +1,81 @@
+
+
+ body h2 {
+    font-size: 36px;
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(42, 15, 68);
+}
+
+
+ .container {
+        display: flex;
+        justify-content: center;  
+        align-items: center;      
+        flex-direction: row;      
+        gap: 20px;                
+        flex-wrap: wrap; 
+        font-size: 20px;
+       
+       
+        
+                 
+    }
+
+
+
+   .container button {
+        background-color:blanchedalmond; 
+        color:black;             
+        font-size: 16px;           
+        padding: 10px 20px;         
+        border: none;              
+        border-radius: 5px; 
+        font-weight: bold;        
+        
+       
+    } 
+
+
+#test {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    gap: 10px;   
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 30px; 
+    color:rgb(36, 13, 59);
+    font-family: 'Times New Roman', Times, serif;
+     
+              
+}
+
+
+.container-md{
+    margin-top: 30px;
+    font-size: 30px;
+    color: red ;
+    font-weight: bold;
+    text-align: center;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
