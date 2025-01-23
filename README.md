@@ -1,8 +1,8 @@
 
 **screenshot**
 
-![pic](Pic%201.png)
-![pic](Pic%202.png)
+![pic](Pic 1.png)
+![pic](Pic 2.png)
 
 **My project Name is SpaceMan Game**
 
