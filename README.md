@@ -26,5 +26,5 @@
 -  CSS
 
 **Next steps**
- - create complicated and harder game.
+ - Add catogries.
  
