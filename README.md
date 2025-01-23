@@ -6,7 +6,7 @@
 
 **My project Name is SpaceMan Game**
 
-- the user must guess the correct word before the hangman picture completed , only 6 incoreect choices are given to the user , i chosed this game becouse its required a lot of thinking and 
+- the user must guess the correct word before the hangman picture completed , only 6 incoreect choices are given to the user , i chosed this game becouse its required a lot of thinking .
 
 
 
